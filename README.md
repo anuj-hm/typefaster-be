@@ -2,8 +2,6 @@
 
 This is the repository for type check game.
 
-![Master workflow](https://github.com/Marketron/radigio-proposal/workflows/Master%20workflow/badge.svg)
-
 ## Table of contents
 
 - [Prerequisite](#prerequisite)
@@ -18,7 +16,7 @@ This is the repository for type check game.
 ## Setup Instructions
 
 - Clone mentioned projects in your workspace
-_ typefaster-be (`git clone https://github.com/anuj-hm/typefaster-be`)
+_ typefaster-be (`git clone https://github.com/anuj-hm/typefaster-be.git`)
 - `cd typefaster-be`
 - `git checkout master`
 - Run `npm install` - to install the packages
